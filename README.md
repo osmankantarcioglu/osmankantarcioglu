@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ahmet Barış Güzeltaş</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Osman Kantarcıoğlu</h1>
+<h3 align="center">A passionate AI developer from Turkey</h3>
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://aiurth.com/">Urth</a>
+  🔭 I’m currently studying on <a href="https://www.sabanciuniv.edu/tr">Sabancı University</a>
 </p>
 <p>
 
 </p>
 <p align="center">
-  🌱 I’m currently learning <strong>Frameworks</strong>
+  🌱 I’m currently working on <strong>Deep Learning</strong>
 </p>
 <p>
 
 </p>
 <p align="center">
-  💬 Ask me about <strong>Vue</strong>
+  💬 Ask me about <strong>AI</strong>
 </p>
 <p>
 
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://tr.linkedin.com/in/ahmet-barış-güzeltaş-bba295324" target="_blank">
+  <a href="www.linkedin.com/in/osman-kantarcıoğlu-98b049290" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" height="30" width="30">
   </a>
-  <a href="mailto:barisguzeltas4@yahoo.com" target="_blank">
+  <a href="mailto:osman.kantarcioglu@sabanciuniv.edu" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40">
   </a>
 </p>
@@ -39,5 +39,5 @@
 
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=barismarathon&show_icons=true&locale=en&layout=compact" alt="barismarathon" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=barismarathon&show_icons=true&locale=en&layout=compact" alt="osmankantarcioglu" />
 </p>
