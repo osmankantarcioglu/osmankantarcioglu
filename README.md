@@ -21,7 +21,7 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/osman-kantarcıoğlu-98b049290" target="_blank">
+  <a href="[www.linkedin.com/in/osman-kantarcıoğlu-98b049290](https://tr.linkedin.com/in/osman-kantarc%C4%B1o%C4%9Flu-98b049290)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" height="30" width="30">
   </a>
   <a href="mailto:osman.kantarcioglu@sabanciuniv.edu" target="_blank">
