@@ -39,5 +39,5 @@
 
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=barismarathon&show_icons=true&locale=en&layout=compact" alt="osmankantarcioglu" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=osmankantarcioglu&show_icons=true&locale=en&layout=compact" alt="osmankantarcioglu" />
 </p>
